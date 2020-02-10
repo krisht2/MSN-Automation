@@ -1,1 +1,1 @@
-# MSN-Automation
+# MSN-Automation Test suite
